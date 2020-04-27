@@ -16,6 +16,9 @@
 
 `flicklearning     :`https://www.flicklearning.com/courses/
 
+`PLURALSIGHT       :`https://www.pluralsight.com/courses/four-semesters-computer-science?utm_content=buffera233b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
+
 
 
 #### JavaScript : 
