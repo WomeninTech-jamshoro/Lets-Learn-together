@@ -9,8 +9,11 @@
 
 #### Free Courses provided by 
 `Coursera          :`https://www.coursera.org/
+
 `kaggle            :`https://www.kaggle.com/
+
 `codecademy        :`https://www.codecademy.com/
+
 `flicklearning     :`https://www.flicklearning.com/courses/
 
 
