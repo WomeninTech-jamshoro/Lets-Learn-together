@@ -58,9 +58,31 @@ https://freecoursesite.com/data-science-deep-learning-machine-learning-with-pyth
 
 #### Tech Interview 
 
+will be adding soon
+### Resources to learn cloud architecture and computing.
+`(1) Google Cloud Training:   `https://cloud.google.com/training/
+`(2) Youtube Video        :   `https://www.youtube.com/watch?v=LICA-ILkO4w
+`(4) Google Cloud Architecture Specialization :  `https://www.coursera.org/professional-certificates/gcp-cloud-architect
+
+
+
 
 #### GitHub Education
 https://education.github.com/pack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
