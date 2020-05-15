@@ -67,6 +67,15 @@ will be adding soon
 `(4) Google Cloud Architecture Specialization :  `https://www.coursera.org/professional-certificates/gcp-cloud-architect
 
 
+####  Resources to learn Git
+
+`💡 Version Control Git course ♠️ on Coursera offered :`(https://lnkd.in/gfEaa2b)
+
+`💡 GitHub labs :`(https://lab.github.com/)
+
+`💡Github GraphQL Explorer :`(https://lnkd.in/g9vh2bn)
+
+`💡For Github REST APIs, the best resource is the documentation :`(https://lnkd.in/gWjAsSp)
 
 
 #### GitHub Education
