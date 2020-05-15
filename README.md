@@ -1,9 +1,9 @@
-# Lets-Learn-together
+# Lets-Learn-together 🔥
 
-# I Want To Learn
-### List of free material to learn free
+# I Want To Learn  💻
+### List of free material to learn free 🎌
 
-### `Fork it and make your own`
+### `Fork it and make your own` 💡
 
 
 
@@ -69,13 +69,13 @@ will be adding soon
 
 ####  Resources to learn Git
 
-`💡 Version Control Git course ♠️ on Coursera offered :`(https://lnkd.in/gfEaa2b)
+`♠️ Version Control Git course on Coursera offered :`(https://lnkd.in/gfEaa2b)
 
-`💡 GitHub labs :`(https://lab.github.com/)
+`♠️ GitHub labs :`(https://lab.github.com/)
 
-`💡Github GraphQL Explorer :`(https://lnkd.in/g9vh2bn)
+`♠️Github GraphQL Explorer :`(https://lnkd.in/g9vh2bn)
 
-`💡For Github REST APIs, the best resource is the documentation :`(https://lnkd.in/gWjAsSp)
+`♠️For Github REST APIs, the best resource is the documentation :`(https://lnkd.in/gWjAsSp)
 
 
 #### GitHub Education
