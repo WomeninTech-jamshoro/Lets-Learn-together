@@ -7,7 +7,7 @@
 
 
 
-#### Free Courses provided by 
+####♠️ Free Courses provided by 
 `Coursera          :`https://www.coursera.org/
 
 `kaggle            :`https://www.kaggle.com/
@@ -21,7 +21,7 @@
 
 
 
-#### JavaScript : 
+####♠️ JavaScript : 
 
 `Data Structure And Algorithms :`https://freecoursesite.com/master-the-coding-interview-data-structures-algorithms/
 
@@ -45,40 +45,40 @@
 
 
 
-#### Python: 
+####♠️ Python: 
 
 https://freecoursesite.com/the-complete-python-3-masterclass-from-beginner-to-pro/
 
 https://pythonbestcourses.com/complete-python-developer-in-2020/
 
 
-#### Artificial Intelligence and Machine Learning 
+####♠️ Artificial Intelligence and Machine Learning 
 
 https://freecoursesite.com/data-science-deep-learning-machine-learning-with-python-1/
 
-#### Tech Interview 
+####♠️ Tech Interview 
 
 will be adding soon
-### Resources to learn cloud architecture and computing.
+###♠️ Resources to learn cloud architecture and computing.
 `(1) Google Cloud Training:   `https://cloud.google.com/training/
 
 `(2) Youtube Video        :   `https://www.youtube.com/watch?v=LICA-ILkO4w
 
-`(4) Google Cloud Architecture Specialization :  `https://www.coursera.org/professional-certificates/gcp-cloud-architect
+`(3) Google Cloud Architecture Specialization :  `https://www.coursera.org/professional-certificates/gcp-cloud-architect
 
 
-####  Resources to learn Git
+####♠️  Resources to learn Git
 
-`♠️ Version Control Git course on Coursera offered :`(https://lnkd.in/gfEaa2b)
+`(1) Version Control Git course on Coursera offered :`(https://lnkd.in/gfEaa2b)
 
-`♠️ GitHub labs :`(https://lab.github.com/)
+`(2)GitHub labs :`(https://lab.github.com/)
 
-`♠️Github GraphQL Explorer :`(https://lnkd.in/g9vh2bn)
+`(3)Github GraphQL Explorer :`(https://lnkd.in/g9vh2bn)
 
-`♠️For Github REST APIs, the best resource is the documentation :`(https://lnkd.in/gWjAsSp)
+`(4)For Github REST APIs, the best resource is the documentation :`(https://lnkd.in/gWjAsSp)
 
 
-#### GitHub Education
+####♠️ GitHub Education
 https://education.github.com/pack
 
 
