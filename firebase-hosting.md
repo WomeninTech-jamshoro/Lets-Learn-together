@@ -1,5 +1,7 @@
 **Prerequisite**
+
 Node Installed
+
 put command on  **(`npm install -g firebase-tools`)** on your cmd to install firebase tools.
 
 ***`STEPS`***
@@ -10,6 +12,9 @@ put command on  **(`npm install -g firebase-tools`)** on your cmd to install fir
  4. `Go to your folder now you can see public folder, that is inital folder, copy paste the required files you want to host.`
  5. firebase deploy
  6. Go to the url your application has been deployed
+
+
+
 
 
 
