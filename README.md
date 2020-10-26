@@ -84,6 +84,44 @@ https://education.github.com/pack
 
 
 
+**Steps to add your contribution**
+
+**1.Fork**
+
+**2. Clone**
+
+***e.g:*** git clone https://github.com/WomeninTech-jamshoro/first-contribution.git
+
+**3.  Create your Branch** 
+ 
+> git checkout -b <add-your-github-name>
+
+ 
+*e.g. git checkout -b add-WomenInTech*
+
+**4. Make some contribution**
+
+
+## 5. Add Changes and Commit Changes
+
+
+> git commit -m "Add my-commit"
+
+  
+
+## 6. Push changes to GitHub
+
+
+> git push origin your-branch-name
+ 
+
+## Submit your changes for review
+
+  
+
+Once you push your code to GitHub, now it's time to create your `pull request`, you will go to the repository click on `compare and pull request` and submit the pull request.
+
+
 
 
 
