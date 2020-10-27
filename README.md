@@ -82,42 +82,46 @@ will be adding soon
 https://education.github.com/pack
 
 
+## Steps to add your contribution
 
+**1. Fork**
 
-**Steps to add your contribution**
+- Forking will create a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository.
 
-**1.Fork**
+- Go to [https://github.com/WomeninTech-jamshoro/Lets-Learn-together](https://github.com/WomeninTech-jamshoro/Lets-Learn-together)
+
+- See on top right corner fork the repository from there.
+
+![Fork](/assets/images/fork.png "Fork")
 
 **2. Clone**
 
-***e.g:*** git clone https://github.com/WomeninTech-jamshoro/first-contribution.git
+- Clone is a copy of repository on your local instead of on a website's server where you edit file in your preffered editor.
 
-**3.  Create your Branch** 
- 
-> git checkout -b <add-your-github-name>
+![Fork](/assets/images/fork.png "Fork")
 
+command for git clone : `$ git clone [URL]`
+*[URL]-url that was copied in clipboard*
+
+**3. Create your Branch** 
  
-*e.g. git checkout -b add-WomenInTech*
+`$ git checkout -b <branch-name>`
 
 **4. Make some contribution**
 
+You can add or edit any file.
 
-## 5. Add Changes and Commit Changes
+**5. Add Changes and Commit Changes**
 
+- `$ git add <file-name>` or `$ git add . `
 
-> git commit -m "Add my-commit"
+- `git commit -m "Add my-commit" `
 
-  
+**6. Push changes to GitHub**
 
-## 6. Push changes to GitHub
-
-
-> git push origin your-branch-name
+`git push origin <branch-name>`
  
-
 ## Submit your changes for review
-
-  
 
 Once you push your code to GitHub, now it's time to create your `pull request`, you will go to the repository click on `compare and pull request` and submit the pull request.
 
