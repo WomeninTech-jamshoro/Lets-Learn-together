@@ -98,7 +98,7 @@ https://education.github.com/pack
 
 - Clone is a copy of repository on your local instead of on a website's server where you edit file in your preffered editor.
 
-![Fork](/assets/images/fork.png "Fork")
+![Fork](/assets/images/clone.png "Clone")
 
 command for git clone : `$ git clone [URL]`
 *[URL]-url that was copied in clipboard*
