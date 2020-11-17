@@ -41,6 +41,16 @@
 
 `NextJs Complete Guide : `https://www.freecodecamp.org/news/the-next-js-handbook/
 
+`Concepts:`https://javascript.info/js
+
+`Course :`https://courses.wesbos.com/account/access/5fb24c8b24b5071fef487d36/view/194837696
+
+`Book JS :`https://github.com/getify/You-Dont-Know-JS
+
+`Advanced Js :`https://www.udemy.com/course/advanced-javascript-concepts/
+
+`Algorithms :`https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
 
 
 
